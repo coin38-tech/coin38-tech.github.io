@@ -130,6 +130,14 @@ p {
   margin: 0px;
 }
 
+.logo-coin38 {
+  color: #fff;
+}
+
+.logo-coin38:hover {
+  color: #85E4A5;
+}
+
 .img-bg {
   background-position: center center;
   background-size: cover;
